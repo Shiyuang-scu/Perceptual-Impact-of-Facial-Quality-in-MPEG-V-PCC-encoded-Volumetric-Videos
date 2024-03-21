@@ -3,8 +3,9 @@
 
 
 <div align="center">
-  <img src="./fig/sample-ref.png" width="35%" />
-  <img src="./fig/sample-r2-r1-r0.png" width="35%" />
+  <img src="./fig/sample-ref.png" width="25%" />
+  <img src="./fig/sample-r2-r1-r0.png" width="25%" />
+  <img src="./fig/sample-r5-r4-r3.png" width="25%" />
 </div>
 
 
