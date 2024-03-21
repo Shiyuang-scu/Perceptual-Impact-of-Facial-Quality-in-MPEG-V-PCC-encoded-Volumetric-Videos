@@ -3,13 +3,14 @@
 
 
 <div align="center">
-  <img src="./fig/sample-ref.png" width="15%" />
-  <img src="./fig/sample-r2-r1-r0.png" width="15%" />
-  <img src="./fig/sample-r3-r2-r1.png" width="15%" />
-  <img src="./fig/sample-r4-r3-r2.png" width="15%" />
-  <img src="./fig/sample-r5-r4-r3.png" width="15%" />
+  <img src="./fig/sample-ref.png" width="19%" />
+  <img src="./fig/sample-r2-r1-r0.png" width="19%" />
+  <img src="./fig/sample-r3-r2-r1.png" width="19%" />
+  <img src="./fig/sample-r4-r3-r2.png" width="19%" />
+  <img src="./fig/sample-r5-r4-r3.png" width="19%" />
 </div>
 
+<br> <br>
 
 We investigate the influence of rendering face quality of the avatars on users' viewing experience in MPEG V-PCC-encoded volumetric videos.  We conducted a subjective quality assessment study using the Degradation Category Rating (DCR) method, manipulating facial quality by controlling the compression level of V-PCC. Our analysis reveals the significant role of facial quality in influencing users' overall perceptual quality in volumetric videos.
 
